@@ -8,7 +8,7 @@
 
 Repositorio destinado ao estudo do framework Angular, aqui voce encontrara anotações, projetos e testes.
 
-**Ciclo de vida Angular**
+## :dart: Ciclo de vida Angular
 
 <strong>ngOnInit:</strong> é executado uma vez quando o componente é inicializado;
 
@@ -28,7 +28,7 @@ Além desses existem outros quatros hooks dentro do ngDoCheck:
 
 <strong>ngAfterViewChecked:</strong> sempre que é detectado uma alteração do conteúdo é chamado esse cara.
 
-**Databiding**
+## :dart: Databiding
 
 <strong>Interpolation</strong> Permite inserir textos dinamicos
 
