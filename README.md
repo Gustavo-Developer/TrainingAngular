@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./github/logo.png" alt="ig news" width="100px"/>
+  <img src="./.github/logo.png" alt="Angular" width="100px"/>
 </h1>
 
 <p align="center">
