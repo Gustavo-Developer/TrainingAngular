@@ -30,10 +30,37 @@ Além desses existem outros quatros hooks dentro do ngDoCheck:
 
 **Databiding**
 
-<strong>Interpolation</strong>
-<strong>Property Binding</strong>
-<strong>Event Binding</strong>
-<strong>Two-way Binding</strong>
+<strong>Interpolation</strong> Permite inserir textos dinamicos
+
+```bash
+  <h1> {{title}} </h1>
+
+  public title: string = "Bem vindo";
+```
+
+<strong>Property Binding</strong> Permiter definir valores para propriedades de elementos ou diretivas HTML
+
+```bash
+  <button [disabled]="disabledButton"> Button </button>
+  <img [src]="itemImageUrl">
+  ou
+  <img src="{{itemImageUrl}}">
+```
+
+<strong>Event Binding</strong> Permite escutar ou responder eventos do usuario
+
+```bash
+  <button [click]="calc()"> Button </button>
+```
+
+<strong>Two-way Binding</strong> Uniao entre propert-binding e event-binding. Usado para ouvir eventros e atualizar valores simultaneamente
+
+```bash
+  <input [(ngModel)]="nome">
+  <span> {{nome}} </span>
+
+  public nome = "Gustavo"
+```
 
 <table>
   <tr>
