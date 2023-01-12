@@ -1,4 +1,8 @@
-<p>
+<h1 align="center">
+  <img src="./github/logo.png" alt="ig news" width="100px"/>
+</h1>
+
+<p align="center">
   Curso <strong> Angular </strong>
 </p>
 
@@ -23,6 +27,13 @@ Além desses existem outros quatros hooks dentro do ngDoCheck:
 <strong>ngAfterViewInit:</strong> executado logo após os dados dos filhos e do próprio componente ser inicializado;
 
 <strong>ngAfterViewChecked:</strong> sempre que é detectado uma alteração do conteúdo é chamado esse cara.
+
+**Databiding**
+
+<strong>Interpolation</strong>
+<strong>Property Binding</strong>
+<strong>Event Binding</strong>
+<strong>Two-way Binding</strong>
 
 <table>
   <tr>
