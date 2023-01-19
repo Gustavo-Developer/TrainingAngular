@@ -8,6 +8,20 @@
 
 Repositorio destinado ao estudo do framework Angular, aqui voce encontrara anotações, projetos e testes.
 
+## :dart: Diretivas
+
+<strong>Atributo:</strong> Alteram a aparenciua ou comportamento de um elemento, componente ou diretiva.
+
+[NgClass]
+[NgStyle]
+[NgModel]
+
+<strong>Estruturais:</strong> Modam ou Remodelam a estrutura do DOM
+
+[NgIf]
+[NgFor]
+[NgSwitch]
+
 ## :dart: Ciclo de vida Angular
 
 <strong>ngOnInit:</strong> é executado uma vez quando o componente é inicializado;
