@@ -10,9 +10,20 @@ Documentacao : [https://angular.io/docs]
 
 Repositorio destinado ao estudo do framework Angular, aqui voce encontrara anotações, projetos e testes.
 
-## :dart: Bom saber
+## :dart: Modulos
 
 [1]. O Angular é uma aplicacao <strong> Modular </strong>
+Anatomia (ngModule):
+
+```bash
+  @ngModule({ // é um decorator
+    declarations: [], // Declarar um componente
+    imports: [], // Importar funcionalisades de um componente
+    exports: [], // Exporta um componente para outro componente
+    providers: [], // Usado para declarar os servicos
+    bootstrap: [], // Informa que esse componente e o root
+  })
+```
 
 ## :dart: Diretivas
 
