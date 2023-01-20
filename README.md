@@ -6,7 +6,13 @@
   Curso <strong> Angular </strong>
 </p>
 
+Documentacao : [https://angular.io/docs]
+
 Repositorio destinado ao estudo do framework Angular, aqui voce encontrara anotações, projetos e testes.
+
+## :dart: Bom saber
+
+[1]. O Angular é uma aplicacao <strong> Modular </strong>
 
 ## :dart: Diretivas
 
