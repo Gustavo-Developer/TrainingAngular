@@ -10,6 +10,14 @@ Documentacao : [https://angular.io/docs]
 
 Repositorio destinado ao estudo do framework Angular, aqui voce encontrara anotações, projetos e testes.
 
+## :dart: Estados
+
+Compartilhando dados entre componentes através de decoradoes
+
+[@Input] - propriedade pode receber seu valor de seu componente pai
+
+[@Output] - permite que os dados fluam do filho para o pai
+
 ## :dart: Modulos
 
 [1]. O Angular é uma aplicacao <strong> Modular </strong>
